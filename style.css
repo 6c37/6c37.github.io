@@ -1,0 +1,16 @@
+a {
+	text-decoration: none;
+	color: 58698c;
+}
+
+a:hover {
+	text-decoration: none;
+	color: 7086b2;
+}
+
+body {
+	background-color: 09090d;
+	color: 839496;
+	font-family: 'Source Sans Pro', sans;
+	text-align: center;
+}
